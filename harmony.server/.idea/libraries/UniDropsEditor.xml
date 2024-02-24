@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UniDropsEditor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/unidrops-op/UniDropsEditor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/unidrops-op/plugins/PIPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/unidrops-op/plugins/MatrixPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/unidrops-op/plugins/PIConstantsPlugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/unidrops-op/plugins/Asteria3Plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rssb-0.50">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shop editor/rssb-0.50.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
